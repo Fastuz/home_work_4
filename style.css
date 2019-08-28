@@ -12,12 +12,13 @@
 }
 .tabContent{
 	width: 600px;
-	border: 5px solid aquamarine;
+	border: 5px solid #bfe8ff;
 	position: relative;
-    top: -1px;
+    	top: -1px;
 	z-index: 1;
 	padding: 20px;
 	border-radius: 0 0 3px 3px;
+	background: radial-gradient(transparent, #07ffddf7);
 }
 .hide{
 	display: none;
