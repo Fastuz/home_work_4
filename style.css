@@ -1,0 +1,30 @@
+.tab{
+	display: inline-block;
+	padding: 5px;
+	cursor: pointer;
+	position: relative;
+	z-index: 5;
+}
+.mainTab{
+	background: #9ddcffa6;
+	color: black;
+	font-size: 20px;
+}
+.tabContent{
+	width: 600px;
+	border: 5px solid aquamarine;
+	position: relative;
+    top: -1px;
+	z-index: 1;
+	padding: 20px;
+	border-radius: 0 0 3px 3px;
+}
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
+	
+	
+	
